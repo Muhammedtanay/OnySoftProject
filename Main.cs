@@ -6,5 +6,5 @@ Namespace main
 {
 //im using mapper and dto
 
-    Public void
+    Public void mapperMapping()
 }
